@@ -3,15 +3,15 @@
     src:
         url(./Raleway-Regular.woff2) format('woff2'),
         url(./Raleway-Regular.woff) format('woff');
-    font-size: normal;
+    font-weight: normal;   
     font-display: swap;
 }
 
 @font-face {
-    font-family: Raleway-bold;
+    font-family: Raleway;
     src:
         url(./Raleway-ExtraBold.woff2) format('woff2'),
         url(./Raleway-ExtraBold.woff) format('woff');
-    font-size: bold;
+    font-weight: bold;
     font-display: swap;
 }
